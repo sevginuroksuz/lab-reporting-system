@@ -430,6 +430,7 @@ Report with ID 6 has been deleted successfully.
 ```
 
 ```
+```
 
 Constraintler:
 Patient identity number 7 haneli olmak zorunda<br>
@@ -438,7 +439,7 @@ Rapor ve Laborant oluşturulurken hiçbir değer null olamaz.<br>
 Raporlar hasta adı, soyadı veya tc kimlik numarasına göre listelenirken hepsi dolu olmak zorunda değil.<br>
 <br><br>
 
-```
+
 
 
 
