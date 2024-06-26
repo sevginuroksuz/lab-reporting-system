@@ -1,7 +1,7 @@
 ## ÖZGÜR YAZILIM 
 ## LABORATUVAR RAPOR YÖNETİM SİSTEMİ UYGULAMASI
 <hr>
-Proje bir banka uygulamasının genel hatlarıyla simülasyonunu yapar.
+Proje bir laboratuvar yönetim sistemi uygulamasının genel hatlarıyla simülasyonunu yapar.
 
 ### Entity Classlari
 #### Report
